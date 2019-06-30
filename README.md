@@ -8,15 +8,6 @@ You can install this app via [HACS](https://custom-components.github.io/hacs/) o
 
 Go to [HA community](https://community.home-assistant.io/t/airly-integration-appdaemon/101455) for support and help.
 
-- airly_apikey - Airly API key, string (required)
- - latitude     - latitude, float (required)
- - longitude    - longitude, float (required)
- - retain       - retain true or false for MQTT, boolean, default false (optional)
- - interval     - update interval, integer, default 5 min. (optional)
- - sensors      - dictionary of sensors to add, default pm1, pm25, pm10, caqi
-                  (optional), available sensors: pm1, pm25, pm10, caqi,
-                  temperature, humidity, pressure
-
 ## Configuration example
 ```yaml
 airly:
