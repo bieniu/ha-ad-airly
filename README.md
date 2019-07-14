@@ -1,4 +1,5 @@
 # Airly
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
 This app adds sensors with data from Airly via MQTT Discovery to the [Home Assistant](https://home-assistant.io/).
 
