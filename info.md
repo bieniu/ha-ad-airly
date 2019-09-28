@@ -1,3 +1,5 @@
+# This app is deprecated. Use [Airly custom component](https://github.com/bieniu/ha-ad-airly) instead.
+
 ## Configuration example
 ```yaml
 airly:

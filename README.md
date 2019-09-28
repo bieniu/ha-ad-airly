@@ -1,3 +1,5 @@
+#This app is deprecated. Use [Airly custom component](https://github.com/bieniu/ha-ad-airly) instead.
+
 # Airly
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
