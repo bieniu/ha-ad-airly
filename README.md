@@ -2,8 +2,8 @@
 
 # Airly
 [![GitHub Release][releases-shield]][releases]
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
-[![Buy me a coffee][buy-me-a-coffee]](https://www.buymeacoffee.com/QnLdxeaqO)
+[![hacs_badge][hacs-shield]][hacs]
+[![Buy me a coffee][buy-me-a-coffee-shield]][buy-me-a-coffee]
 
 This app adds sensors with data from Airly via MQTT Discovery to the [Home Assistant](https://home-assistant.io/).
 
@@ -45,4 +45,5 @@ key | optional | type | default | description
 
 [releases]: https://github.com/bieniu/ha-ad-airly/releases
 [releases-shield]: https://img.shields.io/github/release/bieniu/ha-ad-airly.svg?style=popout
-[buy-me-a-coffee]: https://img.shields.io/static/v1.svg?label=%20&message=Buy%20me%20a%20coffee&color=6f4e37&logo=buy%20me%20a%20coffee&logoColor=white
+[buy-me-a-coffee-shield]: https://img.shields.io/static/v1.svg?label=%20&message=Buy%20me%20a%20coffee&color=6f4e37&logo=buy%20me%20a%20coffee&logoColor=white
+[buy-me-a-coffee]: https://www.buymeacoffee.com/QnLdxeaqO
