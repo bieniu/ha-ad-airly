@@ -1,6 +1,7 @@
 # This app is deprecated. Use [Airly custom component](https://github.com/bieniu/ha-airly) instead.
 
 # Airly
+[![GitHub Release][releases-shield]][releases]
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 [![Buy me a coffee][buy-me-a-coffee]](https://www.buymeacoffee.com/QnLdxeaqO)
 
@@ -42,4 +43,6 @@ key | optional | type | default | description
 `interval` | True | integer | 5 | update interval [min]
 `sensors` | True | dictionary | `[pm1, pm25, pm10, caqi]` | dictionary of sensors to add, available sensors: `pm1`, `pm25`, `pm10`, `caqi`, `temperature`, `humidity`, `pressure`
 
+[releases]: https://github.com/bieniu/ha-ad-airly/releases
+[releases-shield]: https://img.shields.io/github/release/bieniu/ha-ad-airly.svg?style=popout
 [buy-me-a-coffee]: https://img.shields.io/static/v1.svg?label=%20&message=Buy%20me%20a%20coffee&color=6f4e37&logo=buy%20me%20a%20coffee&logoColor=white
