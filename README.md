@@ -2,6 +2,7 @@
 
 # Airly
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![Buy me a coffee][buy-me-a-coffee]](https://www.buymeacoffee.com/QnLdxeaqO)
 
 This app adds sensors with data from Airly via MQTT Discovery to the [Home Assistant](https://home-assistant.io/).
 
@@ -40,3 +41,5 @@ key | optional | type | default | description
 `retain` | True | boolean | `false` | retain `true` or `false` for MQTT
 `interval` | True | integer | 5 | update interval [min]
 `sensors` | True | dictionary | `[pm1, pm25, pm10, caqi]` | dictionary of sensors to add, available sensors: `pm1`, `pm25`, `pm10`, `caqi`, `temperature`, `humidity`, `pressure`
+
+[buy-me-a-coffee]: https://img.shields.io/static/v1.svg?label=%20&message=Buy%20me%20a%20coffee&color=6f4e37&logo=buy%20me%20a%20coffee&logoColor=white
